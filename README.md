@@ -9,7 +9,7 @@ This project is Deep Project to predict the review is positive or negative and u
 4) git clone https://github.com/udacity/sagemaker-deployment.git
 5) Start Project
 
-##Create AWS Lambda
+## Create AWS Lambda
 1) Search Lambda
 2) Create Function
 3) Enter function name and select Runtime -> Pythion 3.6
@@ -17,7 +17,7 @@ This project is Deep Project to predict the review is positive or negative and u
 5) Create
 
 
-##Create Lambda API Gateway
+# #Create Lambda API Gateway
 1) Search API Gateway
 2) Create API
 3) Select New API, API Name
@@ -25,6 +25,6 @@ This project is Deep Project to predict the review is positive or negative and u
 4) Select Lambda Function
 5) Name as prod
 
-##Update Index.html
+## Update Index.html
 1) Update the API Gateway 
 
