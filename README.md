@@ -17,7 +17,7 @@ This project is Deep Project to predict the review is positive or negative and u
 5) Create
 
 
-# #Create Lambda API Gateway
+## Create Lambda API Gateway
 1) Search API Gateway
 2) Create API
 3) Select New API, API Name
